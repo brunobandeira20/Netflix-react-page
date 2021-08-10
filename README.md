@@ -1,4 +1,4 @@
-![alt text](https://https://github.com/brunobandeira20/Netflix-react-page/blob/master/src/netflixpage.gif?raw=true)
+![alt text](https://github.com/brunobandeira20/Netflix-react-page/blob/master/src/netflixpage.gif?raw=true)
 
 
 
