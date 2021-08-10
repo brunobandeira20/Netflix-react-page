@@ -1,3 +1,17 @@
+![alt text](https://https://github.com/brunobandeira20/Netflix-react-page/blob/master/src/netflixpage.gif?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
